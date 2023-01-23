@@ -14,7 +14,7 @@
     }
     else
     {
-        <table class=“table table-bordered table-hover”>
+        <table class=“table table-striped table-hover”>
             <thead>
                 <tr>
                     <th>Customer</th>
@@ -26,7 +26,7 @@
                 {
                     <tr>
                         <td>
-                            @Html.ActionLink(customer.Name, "Details", "Customers", new { id = customer.Id }, null)
+                            @Html.ActionLink(customer.Name, "Edit", "Customers", new { id = customer.Id }, null)
                         </td>
                         <td>@customer.MembershipType.Name</td>
                     </tr>

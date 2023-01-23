@@ -51,6 +51,8 @@ C:\Graham Code\Practice\Vidly\Vidly\bin\roslyn\vbc.rsp
 C:\Graham Code\Practice\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
 C:\Graham Code\Practice\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
 C:\Graham Code\Practice\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Graham Code\Practice\Vidly\Vidly\bin\EntityFramework.dll
+C:\Graham Code\Practice\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
 C:\Graham Code\Practice\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Graham Code\Practice\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
 C:\Graham Code\Practice\Vidly\Vidly\bin\Newtonsoft.Json.dll
@@ -62,6 +64,8 @@ C:\Graham Code\Practice\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
 C:\Graham Code\Practice\Vidly\Vidly\bin\System.Web.WebPages.dll
 C:\Graham Code\Practice\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
 C:\Graham Code\Practice\Vidly\Vidly\bin\WebGrease.dll
+C:\Graham Code\Practice\Vidly\Vidly\bin\EntityFramework.xml
+C:\Graham Code\Practice\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
 C:\Graham Code\Practice\Vidly\Vidly\bin\System.Web.Helpers.xml
 C:\Graham Code\Practice\Vidly\Vidly\bin\System.Web.Mvc.xml
 C:\Graham Code\Practice\Vidly\Vidly\bin\System.Web.Optimization.xml
@@ -73,16 +77,7 @@ C:\Graham Code\Practice\Vidly\Vidly\bin\Newtonsoft.Json.xml
 C:\Graham Code\Practice\Vidly\Vidly\bin\Antlr3.Runtime.pdb
 C:\Graham Code\Practice\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.csproj.AssemblyReference.cache
-C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
-C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
-C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.dll
-C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.pdb
-C:\Graham Code\Practice\Vidly\Vidly\bin\EntityFramework.dll
-C:\Graham Code\Practice\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
-C:\Graham Code\Practice\Vidly\Vidly\bin\EntityFramework.xml
-C:\Graham Code\Practice\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
 C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
 C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
@@ -93,3 +88,9 @@ C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCus
 C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreAndMovieAnnotations.resources
 C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenre.resources
 C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdatedBirthdateType.resources
+C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Graham Code\Practice\Vidly\Vidly\obj\Debug\Vidly.Migrations.RestoreToPrevious.resources
